@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="flash">flash</string>
+    <string name="off">off</string>
+    <string name="on">on</string>
+    <string name="flashlight_app">flashlight App</string>
+    <string name="by_pratik_m_jamalia">Developed by Pratik M. Jamalia</string>
+</resources>
