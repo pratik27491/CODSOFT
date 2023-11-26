@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_text_color">#000000</color>
+    <color name="operator_text_color">#FF5733</color>
+    <color name="clear_button_text_color">#FF5733</color>
+    <color name="equals_button_text_color">#FF5733</color>
+    
+    <color name="linecolor">#DAD8DB</color>
+    <color name="btnBackground">#FFFFFF</color>
+    <color name="brnBackground2">#FF9800</color>
+</resources>
